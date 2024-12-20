@@ -5,7 +5,7 @@
 
 # Apuntes
 
-![examen 1](examen1.png)
+![Examen 1](/IMAGENES/examen1.png)
 
 Poner la maquina virtual de ubuntu en NAT.
 Los contenedores de ubuntu tienen que tener como nombre de host el nombre 
@@ -58,7 +58,7 @@ Este proyecto incluye:
 ---
 
 
-![examen 2](examen2.png)
+![Examen 2](/IMAGENES/examen2.png)
 
 ### Contacto
 Si tienes alguna pregunta, no dudes en contactarme:
