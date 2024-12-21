@@ -2,7 +2,6 @@
 
 ---
 
-
 # Apuntes
 
 ![Examen 1](/IMAGENES/examen1.png)
