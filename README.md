@@ -57,7 +57,7 @@ Este proyecto incluye:
 ---
 
 
-![Examen 2](/IMAGENES/examen2.png)
+![Champion](/IMAGENES/sergio.jpg)
 
 ### Contacto
 Si tienes alguna pregunta, no dudes en contactarme:
