@@ -1,0 +1,20 @@
+#Ignorar una carpeta completa:
+
+/solucion_examen/
+
+#Ignorar todo excepto un archivo específico dentro de una carpeta:
+
+/luchito/*
+!/luchito/importante.txt
+
+#Ignorar todos los archivos en cualquier subdirectorio que coincidan con un patrón:
+
+**/temp/*
+
+#Ignorar todo el directorio (todo lo que esta dentro de la carpeta secret):
+
+secret/**
+
+#Ignorar todo los archivos con extension .secret:
+
+*.secret
