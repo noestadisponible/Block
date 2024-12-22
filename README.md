@@ -1,6 +1,18 @@
 # Block
 
 ---
+.
+=======
+
+# Probando GitFlow
+
+---
+
+Usando 
+git branch (te ubica en la rama que estas)
+
+
+=======
 
 # Apuntes
 
