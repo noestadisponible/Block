@@ -1,3 +1,4 @@
+
 # Probando GitFlow
 
 ---
@@ -26,4 +27,7 @@ git flow feature finish probando_gitflow
 Esto fusiona la rama en la de desarrollo y elimina la rama de funcionalidad.
 
 ---
+
+=======
+# Pull request: https://github.com/
 
